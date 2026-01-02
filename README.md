@@ -5,6 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshaykurve_)
 [![Threads](https://img.shields.io/badge/Threads-black.svg?logo=threads&logoColor=white)](https://www.threads.com/@akshaykurve_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kurve.akshay)
+
+
+## 🌐 Writing & Dev:
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@akshaykurve)
 [![Quora](https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/Akshaykurve)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~akshaykurve)
