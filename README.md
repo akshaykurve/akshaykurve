@@ -12,6 +12,7 @@
 [![Quora](https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/Akshaykurve)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~akshaykurve)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?logo=pinterest&logoColor=white)](https://in.pinterest.com/akshaykurve_)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/akshaykurve)
 
 
 # 💻 Tech Stack:
