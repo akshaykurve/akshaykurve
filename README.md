@@ -8,6 +8,7 @@
 
 
 ## 🌐 Writing & Dev:
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/akshaykurve)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@akshaykurve)
 [![Quora](https://img.shields.io/badge/Quora-B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/Akshaykurve)
 [![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~akshaykurve)
