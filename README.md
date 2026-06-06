@@ -29,7 +29,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=drakula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
