@@ -21,10 +21,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akshaykurve&theme=shadow_green&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=akshaykurve&theme=shadow_green&hide_border=false)
+<br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akshaykurve&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/akshaykurve/akshaykurve/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
