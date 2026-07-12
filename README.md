@@ -16,7 +16,7 @@
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/akshaykurve)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
@@ -44,13 +44,20 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=akshaykurve&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=default&no-frame=false&no-bg=true&margin-w=4)
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykurve&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/akshaykurve)
+
+</div>
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=default&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshaykurve&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -61,4 +68,3 @@
 
 [![](https://komarev.com/ghpvc/?username=akshaykurve&icon=0&color=39ac39)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
