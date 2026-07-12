@@ -45,9 +45,9 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akshaykurve&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akshaykurve&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📅 Contribution Activity
 
@@ -56,11 +56,12 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykurve&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/akshaykurve)
 
 </div>
+
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=default&no-frame=false&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=default&no-frame=false&no-bg=true&margin-w=4) 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshaykurve&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=akshaykurve&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
