@@ -45,9 +45,9 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=akshaykurve&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📅 Contribution Activity
 
