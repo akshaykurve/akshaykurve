@@ -52,7 +52,8 @@
 ## 📅 Contribution Activity
 
 <div align="center">
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykurve&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/akshaykurve)
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykurve&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/akshaykurve)
 
 </div>
 
