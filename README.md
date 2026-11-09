@@ -1,5 +1,12 @@
+<p align="center">
+  <img alt="Akshay Kurve" src="https://githubstudio.sylvenos.com/api/banner?theme=auto&text=Akshay%20Kurve&subtitle=Software%20Engineer%20%C2%B7%20System%20Designer%20%C2%B7%20Engineering%20Manager&style=aurora&height=230&animation=true" width="100%" />
+</p>
+<p align="center">
+  <img alt="Profile views" src="https://githubstudio.sylvenos.com/api/views?username=akshaykurve&theme=glass&radius=14&title_divider=true&title_size=14&animation=true&card_style=glass&style=pill" />
+</p>
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykurve)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akshaykurve_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshaykurve_)
@@ -45,27 +52,45 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=akshaykurve&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshaykurve&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <img alt="Streak" src="https://githubstudio.sylvenos.com/api/streak?username=akshaykurve&theme=auto&layout=cards" height="150"/>
+</p>
 
-## 📅 Contribution Activity
+<p align="left">
+  <img alt="Monthly trend vs last year" src="https://githubstudio.sylvenos.com/api/monthly?username=akshaykurve&theme=auto&compare=true&diff=true&values=true" width="51%" />
+  <img alt="Work patterns" src="https://githubstudio.sylvenos.com/api/patterns?username=akshaykurve&theme=auto&chart=bars&values=true&week_start=mon&icons=true" width="48%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img alt="Trophies" src="https://githubstudio.sylvenos.com/api/achievements?username=akshaykurve&theme=auto&columns=6&sort=rank&progress=true" width="100%" />
+</p>
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykurve&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/akshaykurve)
 
-</div>
+<p align="center">
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaykurve&theme=default&no-frame=false&no-bg=true&margin-w=4) 
+## 📈 Contribution Activity
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshaykurve&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+<p align="center">
+  <img alt="Contribution graph" src="https://githubstudio.sylvenos.com/api/contributions?username=akshaykurve&theme=terminal&title_divider=true&animation=true&summary=true" />
+</p>
+
+
+## 🛠️ Stack & languages
+
+
+<p align="center">
+  <img alt="Activity radar" src="https://githubstudio.sylvenos.com/api/radar?username=akshaykurve&theme=terminal&radius=14&title_divider=true&title_size=14&animation=true&&levels=8&fill=25&hide=html&values=true&padding=8&hide_subtitle=true&hide_title=true&title_align=center&letter_spacing=-0.2" width="49%" />
+</p>
+<p align="center">
+  <img alt="Contribution activity" src="https://githubstudio.sylvenos.com/api/activity?username=akshaykurve&theme=auto&by=week&style=area&smooth=true&peak=true&average=true" width="49%" />
+  <img alt="Top languages" src="https://githubstudio.sylvenos.com/api/languages?username=akshaykurve&theme=auto&layout=donut&langs_count=6&other=true" width="49%" />
+</p>
+
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img alt="Daily dev quote" src="https://githubstudio.sylvenos.com/api/quote?theme=auto&layout=terminal&topic=craft&animation=true" width="70%" />
+</p>
 
 
-[![](https://komarev.com/ghpvc/?username=akshaykurve&icon=0&color=39ac39)](https://visitcount.itsvg.in)
 
